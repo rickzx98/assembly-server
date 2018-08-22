@@ -7,7 +7,7 @@ new FluidServer()
     })
     .use(FluidInfo.EXPRESS_SERVER_SOCKET_IO_LISTENER, {
         express_host: "0.0.0.0",
-        express_port: 80
+        express_port: 1028
     })
     .start()
     .then(()=>{
