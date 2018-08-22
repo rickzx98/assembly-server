@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-npm install & npm run compile
 webHome=/opt/swiss-man-web;
 sudo mkdir $webHome;
 sudo ufw allow 80;
