@@ -1,7 +1,7 @@
 {
   "name": "server",
-  "version": "0.0.1",
-  "description": "In Memory storage manager",
+  "version": "0.0.2",
+  "description": "Assembly Line Server",
   "main": "dist/index.js",
   "scripts": {
     "babel-node": "node_modules/.bin/babel-node",

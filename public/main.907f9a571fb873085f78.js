@@ -100907,7 +100907,7 @@ var _imports = __webpack_require__(43);
 
 var MATERIAL = "material";
 
-var NODE_API = "http://34.218.49.10:3001";
+var NODE_API = "http://54.188.199.110:3000";
 
 exports.default = {
   development: function development() {
@@ -100947,7 +100947,7 @@ var _imports = __webpack_require__(43);
 
 var _constants = __webpack_require__(89);
 
-var NODE_API = "http://34.218.49.10:3001";
+var NODE_API = "http://54.188.199.110:3000";
 
 _imports.FluidFunc.create(_constants.PAGE_NAME).onStart(function (_ref) {
   var action = _ref.action,
@@ -101821,7 +101821,7 @@ var _imports = __webpack_require__(136);
 
 var _constants = __webpack_require__(600);
 
-var NODE_API = "http://34.218.49.10:3001";
+var NODE_API = "http://54.188.199.110:3000";
 
 _imports.FluidFunc.create(_constants.PAGE_NAME).onStart(function (_ref) {
   var action = _ref.action,
@@ -102755,7 +102755,7 @@ var _imports = __webpack_require__(108);
 
 var _ProductBody = __webpack_require__(1527);
 
-var NODE_API = "http://34.218.49.10:3001";
+var NODE_API = "http://54.188.199.110:3000";
 
 exports.default = function (instance) {
   var _ref = _imports.React.createElement(_ProductBody.ProductBody, { instance: instance });
